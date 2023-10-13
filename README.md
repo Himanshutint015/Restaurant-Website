@@ -1,5 +1,4 @@
-# Restaurant-Website
-Website Made using HTML &amp; CSS
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
