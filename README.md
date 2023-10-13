@@ -35,8 +35,7 @@ Website Made using HTML &amp; CSS
           <h1>Enjoy Your Delicious Food</h1>
           <p>
             We offer various kind of food in here and the foods that we provide arer delicious and tasty. 
-            
-          </p>
+            </p>
           <button class="explore_btn">Explore Now</button>
         </div>
       </div>
@@ -67,8 +66,7 @@ Website Made using HTML &amp; CSS
       <div class="menu">
         <div class="tag">Our Menu</div>
         <h2>Explore Our Menu</h2>
-
-        <div class="grid">
+      <div class="grid">
           <div class="item1">
             <img
               class="grid-image"
